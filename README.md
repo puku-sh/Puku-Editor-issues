@@ -81,7 +81,7 @@ We love feature requests. To make yours land:
 
 ---
 
-## 🤝 Code of Conduct
+## Code of Conduct
 
 Constructive feedback — including harsh criticism — is welcome; personal attacks, harassment, or hostility toward other users are not. Issues that violate this will be closed without discussion.
 
