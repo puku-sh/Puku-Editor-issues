@@ -65,6 +65,9 @@ We love feature requests. To make yours land:
 
 ---
 
+## Troubleshooting Documentation
+- **Follow this link** - https://puku.sh/docs/troubleshooting
+
 ## 📋 Issue Labels — what they mean
 
 | Label | Meaning |
